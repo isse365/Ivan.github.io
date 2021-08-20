@@ -1,0 +1,9 @@
+body{
+    background-color: darkorange;
+}
+
+img{
+    width: 400px;
+    align-items: center;
+    display: block;
+}
